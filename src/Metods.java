@@ -1,4 +1,3 @@
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
  class Metods {
@@ -22,7 +21,7 @@ import java.util.Scanner;
         }
 
 
-    public static String calc(String input){
+    public static int calc(getX(), getY(), getOper()){
         int result;
         switch (oper){
             case '+':
